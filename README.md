@@ -5,7 +5,7 @@
 ### Mason Carter, Luka Danilovic, Elliott White
 
 
-Full repository can be found at: https://github.com/ElliWhite/ROCO504-Advanced-Robot-Design-Project
+#### Full repository can be found at: https://github.com/ElliWhite/ROCO504-Advanced-Robot-Design-Project
 
 
 #### Project Assignment
